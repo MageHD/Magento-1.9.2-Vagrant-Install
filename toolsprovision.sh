@@ -13,3 +13,9 @@ n98-magerun.phar config:set currency/options/allow USD
 echo -e "\e[31m### Disable Magento Cache\e[0m"
 echo -e "\e[31m### Set Magento Symlinks\e[0m"
 n98-magerun.phar dev:symlinks --on --global
+echo "#################################################################"
+echo "#################################################################"
+echo "Magento admin user: admin"
+echo "Magento password: password123"
+echo "#################################################################"
+echo "#################################################################"
